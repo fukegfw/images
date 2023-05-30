@@ -1,1 +1,1 @@
-# image hosting
+# imagehost
