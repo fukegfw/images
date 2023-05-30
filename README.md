@@ -1,1 +1,1 @@
-# pigco图床
+# image hosting
